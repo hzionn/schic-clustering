@@ -32,7 +32,7 @@ here are suggestions and areas for improvement in clustering.
 
 ### Advanced Clustering Algorithms
 ### Clustering Stability and Validation
-### Feature Selection and Dimensionality Reduction in Clustering
 ### Integration with Other Data Types
-### Handling Sparsity and Noise
 ### Custom Clustering Methods for Hi-C data
+### (Feature Selection and Dimensionality Reduction in Clustering)
+### (Handling Sparsity and Noise)
