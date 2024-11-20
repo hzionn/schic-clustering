@@ -5,10 +5,7 @@
 :star::star::star:
 
 - [Jian Ma | Machine Learning for Single-Cell 3D Epigenomics | CGSI 2022](https://youtu.be/YMoTz7lzyo0?si=-AK84IHzKbqyq3Yb)
-
-:star:
-
-- []()
+- [Jian Ma | Comparing 3D Genome Organization | CGSI 2019](https://youtu.be/wMkbr55S35k?si=gTT6H8nlaWWKwsLS)
 
 ## Article
 
