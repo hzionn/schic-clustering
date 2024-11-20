@@ -1,7 +1,5 @@
 # Questions
 
-[TOC]
-
 ## Challenges for single-cell 3D genome analysis using scHi-C data
 
 - high dimensionality
