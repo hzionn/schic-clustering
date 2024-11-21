@@ -26,6 +26,8 @@
 
 ## How others people deal with different size of cell matrices?
 
+How k-nn Minhash and LDA work on clustering scHi-C data?
+
 ## How to beat previous scHi-C clustering methods?
 
 > potential areas for improvement in clustering.
@@ -41,3 +43,5 @@
 ### (Feature Selection and Dimensionality Reduction in Clustering)
 
 ### (Handling Sparsity and Noise)
+
+## What are the characteristics of scHi-C data should be aware of while clustering them?
