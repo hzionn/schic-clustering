@@ -28,7 +28,7 @@
 
 ## How to beat previous scHi-C clustering methods?
 
-here are suggestions and areas for improvement in clustering.
+> potential areas for improvement in clustering.
 
 ### Advanced Clustering Algorithms
 
