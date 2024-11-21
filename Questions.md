@@ -11,7 +11,7 @@
 ### GM12878-IMR90
 
 - source: [Capturing cell type-specific chromatin compartment patterns by applying topic modeling to single-cell Hi-C data
-](https://doi.org/10.1371/journal.pcbi.1008173)
+  ](https://doi.org/10.1371/journal.pcbi.1008173)
 - multiple cell matrices, `.matrix`
 - and one label data, `.labeled`
 - contains only two unique type: GM12878 and IMR90 human cell lines
@@ -31,8 +31,13 @@
 here are suggestions and areas for improvement in clustering.
 
 ### Advanced Clustering Algorithms
+
 ### Clustering Stability and Validation
+
 ### Integration with Other Data Types
+
 ### Custom Clustering Methods for Hi-C data
+
 ### (Feature Selection and Dimensionality Reduction in Clustering)
+
 ### (Handling Sparsity and Noise)
