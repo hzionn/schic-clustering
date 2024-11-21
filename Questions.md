@@ -8,6 +8,13 @@
 
 ## Which dataset should we use?
 
+### Processed dataset from review paper
+
+- source: [A review and performance evaluation of clustering frameworks for single-cell Hi-C data](https://doi.org/10.1093/bib/bbac385)
+- link: http://easybioai.com/scHIC_benchmark/
+- provided the model input stored in the form of sparse matrix, the embeddings using eight methods on multiple datasets, and mapped the original IDs of the cells to these embeddings
+- we can extend the benchmark with our method?
+
 ### GM12878-IMR90
 
 - source: [Capturing cell type-specific chromatin compartment patterns by applying topic modeling to single-cell Hi-C data
@@ -15,6 +22,7 @@
 - multiple cell matrices, `.matrix`
 - and one label data, `.labeled`
 - contains only two unique type: GM12878 and IMR90 human cell lines
+- provide scripts for data preprocessing and construction of cell-locus pair matrix for topic modeling
 
 ## How to deal with the different size of cell matrices?
 
