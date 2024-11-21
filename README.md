@@ -1,3 +1,3 @@
 # schic-clustering
 
-Goal: Clustering Single-cell Hi-C data
+Topic: Clustering Single-cell Hi-C data

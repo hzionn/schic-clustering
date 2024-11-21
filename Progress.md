@@ -26,7 +26,7 @@ There still are previous approaches like k-nn Minhash and LDA are more direct in
 
 Advancing computational methods:
 
-- chanllenges drive innovation: the unique properties of scHi-C data push for the development of novel computational approaches.
+- challenges drive innovation: the unique properties of scHi-C data push for the development of novel computational approaches.
 
 # Challenges for analysis based on scHi-C data
 
@@ -60,4 +60,4 @@ Advancing computational methods:
 
 # References
 
-[^1]: Linking Genome Structure
+[^1]: Linking genome structures to functions by simultaneous single-cell Hi-C and RNA-seq
