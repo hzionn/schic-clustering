@@ -8,7 +8,7 @@
 
 ## Which dataset should we use?
 
-### Processed dataset from review paper
+### Processed dataset from the review paper
 
 - source: [A review and performance evaluation of clustering frameworks for single-cell Hi-C data](https://doi.org/10.1093/bib/bbac385)
 - link: http://easybioai.com/scHIC_benchmark/
