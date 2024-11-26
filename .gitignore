@@ -1,0 +1,5 @@
+*.zip
+data/*
+
+.ropeproject
+.DS_Store
