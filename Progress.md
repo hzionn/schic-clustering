@@ -44,6 +44,15 @@ Advancing computational methods:
 
 # Clustering Method
 
+## Clustering Framework
+
+- scHiCluster
+- scHiC-topic
+- Higashi
+- Muscle
+- SnapATAC2
+- (tensor decomposition)
+
 ## Previous Clustering Method
 
 - K-Means, Hierarchical Clustering, DBSCAN
