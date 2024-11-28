@@ -35,29 +35,38 @@ Advancing computational methods:
 - Coverage heterogeneity
 - High dimension
 
-# the main pipeline
+# Main clustering pipeline
 
 - How to cluster scHi-C data?
 - imputation
 - feature extraction (dimension reduction)
 - clustering
 
-# Clustering Method
+# Clustering
 
 ## Clustering Framework
 
 - scHiCluster
+- Higashi -> Fast-Higashi
 - scHiC-topic
-- Higashi
+- k-nn Minhash
 - Muscle
 - SnapATAC2
-- (tensor decomposition)
 
-## Previous Clustering Method
+## Clustering Method
 
 - K-Means, Hierarchical Clustering, DBSCAN
 
-## My Clustering Method
+## My Computational Method
+
+- (tensor decomposition)
+
+## Evaluation Method
+
+- ARI (Adjusted Rand Index)
+- NMI (Adjusted Mutual Information)
+- HM (based on Conditional Entropy and Joint Entropy)
+- FM (Fowlkes-Mallows Index)
 
 # (Interpretability?)
 
